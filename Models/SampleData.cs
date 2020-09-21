@@ -10,7 +10,7 @@ namespace PrimoBooks.Models {
             new SampleOrder {
                 OrderID = 10248,
                 OrderDate = new DateTime(1996, 7, 4),
-                ShipCountry = "France",
+                ShipCountry = "Nairobi",
                 ShipCity = "Reims",
                 CustomerName = "Paul Henriot"
             },
